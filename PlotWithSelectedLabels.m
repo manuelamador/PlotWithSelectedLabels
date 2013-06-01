@@ -1,6 +1,4 @@
-
-
-(* Mathematica Raw Program *)
+(* Mathematica Package *)
 
 BeginPackage["PlotWithSelectedLabels`"]
 
